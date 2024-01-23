@@ -1,0 +1,71 @@
+{
+  "treneri": [
+    {
+      "id": 1,
+      "meno": "Ján Slabý",
+      "popis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "uspech": "Vyhral X sutaz",
+      "image": "tr1.jpg"
+    },
+    {
+      "id": 2,
+      "meno": "Marek Malý",
+      "popis": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "uspech": "Vyhral Y sutaz",
+      "image": "tr2.jpg"
+    },
+    {
+      "id": 3,
+      "meno": "Svetlana Svetlá",
+      "popis": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "uspech":"Vyhral Z sutaz",
+      "image": "tr3.jpg"
+    }
+  ],
+  "obrazky": [
+    {
+      "id": 1,
+      "nadpis": "Vybavenie1",
+      "popis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "pic1.jpg"
+    },
+    {
+      "id": 2,
+      "nadpis": "Vybavenie2",
+      "popis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "pic2.jpg"
+    },
+    {
+      "id": 3,
+      "nadpis": "Vybavenie3",
+      "popis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "pic3.jpg"
+    },
+    {
+      "id": 4,
+      "nadpis": "Vybavenie4",
+      "popis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "pic4.jpg"
+    },
+    {
+      "id": 5,
+      "nadpis": "Vybavenie5",
+      "popis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "pic5.jpg"
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "nadpis": "O NÁS",
+      "popis": "Anim aute nulla ipsum laboris ipsum exercitation. Excepteur labore sint do aliquip incididunt ullamco in magna exercitation Lorem consectetur id. Incididunt officia proident ullamco officia irure occaecat. Consectetur ex anim incididunt cillum sit voluptate eiusmod dolor. Amet laboris adipisicing non minim consectetur ullamco mollit amet labore officia aliqua non magna adipisicing. Adipisicing est sint qui do anim qui consequat magna consectetur veniam. Anim commodo laborum irure ut ullamco do labore amet quis velit fugiat est irure. Laboris est irure Lorem dolore quis qui anim.",
+      "image": "pic1.jpg"
+    },
+    {
+      "id": 2,
+      "nadpis": "VYBAVENIE",
+      "popis": "Exercitation sint adipisicing ad magna non. Et sint nulla incididunt sint minim sint nulla nostrud. Tempor anim laborum qui ut dolore dolor duis reprehenderit aute ut proident ut excepteur. Cillum aute sunt consectetur reprehenderit elit sint. Minim sint reprehenderit cillum aliqua proident in id occaecat Lorem non ut.",
+      "image": "pic2.jpg"
+    }
+  ]
+}
